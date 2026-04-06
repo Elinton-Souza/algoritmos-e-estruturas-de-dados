@@ -1,0 +1,100 @@
+PYTHON; Linguagem de programação deste curso
+ALGORITMO; Sequência de passos para resolver um problema
+VARIAVEL; Espaço na memória para guardar dados
+STRING; Cadeia de caracteres
+MATRIZ; Lista de listas ou tabela bidimensional
+FUNCAO; Bloco de código reutilizável
+GITHUB; Plataforma de hospedagem de código e controle de versão
+TERMINAL; Interface de linha de comando
+RECURSIVIDADE; Quando uma função chama a si mesma
+BOOLEANO; Tipo de dado que pode ser True ou False
+INTEIRO; Tipo de dado numérico sem casas decimais
+FLUTUANTE; Tipo de dado para números reais (float)
+IDENTACAO; Deslocamento à direita obrigatório no Python
+COMPILADOR; Traduz código de alto nível para linguagem de máquina
+DEBUGAR; Processo de encontrar e corrigir erros
+SOFTWARE; Parte lógica do computador
+HARDWARE; Parte física do computador
+BACKEND; Parte do sistema que roda no servidor
+FRONTEND; Interface visual que o usuário interage
+DATABASE; Local onde os dados são armazenados
+CANETA; Objeto usado para escrever com tinta
+CELULAR; Aparelho de comunicação móvel
+TECLADO; Periférico usado para digitar
+MONITOR; Tela do computador
+CADEIRA; Móvel usado para sentar
+MOCHILA; Usada para carregar materiais nas costas
+GARRAFA; Recipiente para líquidos
+RELOGIO; Instrumento que marca o tempo
+CARTEIRA; Onde guardamos dinheiro e documentos
+ESPELHO; Objeto que reflete a imagem
+ESCADA; Usada para subir ou descer níveis
+JANELA; Abertura na parede para ventilação
+MARTELO; Ferramenta usada para pregar
+TESOURA; Objeto cortante com duas lâminas
+LAMPADA; Objeto que produz luz elétrica
+QUADRO; Objeto decorativo pendurado na parede
+LIVRO; Conjunto de folhas com textos ou imagens
+CHAVE; Objeto usado para abrir fechaduras
+OCRE; Uma tonalidade de cor amarelada
+XICARA; Pequeno recipiente usado para beber café
+CACHORRO; O melhor amigo do homem
+CHINCHILA; Animal que triplica a cada ano na fazenda do Prof. Edécio
+ELEFANTE; Maior mamífero terrestre
+GIRAFA; Animal de pescoço muito longo
+PAPAGAIO; Ave que consegue imitar a fala humana
+TUBARAO; Predador dos oceanos
+CANGURU; Animal que carrega o filhote em uma bolsa
+Pinguim; Ave que não voa e vive no gelo
+JACARE; Réptil que vive em rios e pântanos
+MORCEGO; Único mamífero que voa
+PELOTAS; Cidade do Campus do Senac onde você estuda
+BRASIL; País onde vivemos
+AMAZONIA; Maior floresta tropical do mundo
+OCEANO; Grande massa de água salgada
+DESERTO; Local com pouca água e muita areia
+MONTANHA; Grande elevação natural do terreno
+PLANETA; Corpo celeste que orbita uma estrela
+EUROPA; Continente onde fica Portugal e França
+PADARIA; Local onde se compra pão fresco
+CINEMA; Local para assistir filmes em tela grande
+ABACAXI; Fruta com coroa e casca espinhosa
+BANANA; Fruta amarela e rica em potássio
+MORANGO; Pequena fruta vermelha com sementes externas
+MELANCIA; Fruta grande, verde por fora e vermelha por dentro
+LASANHA; Prato de massa em camadas com molho e queijo
+COXINHA; Salgado brasileiro em formato de gota
+PIPOCA; Milho estourado no calor
+CHOCOLATE; Doce feito a partir do cacau
+SORVETE; Sobremesa gelada de vários sabores
+PIZZA; Disco de massa assado com cobertura diversa
+FUTEBOL; Esporte mais popular do Brasil
+BASQUETE; Esporte onde se joga a bola na cesta
+NATACAO; Esporte praticado na água
+XADREZ; Jogo de tabuleiro com reis e rainhas
+GUITARRA; Instrumento musical de cordas elétrico
+VIOLAO; Instrumento musical de madeira e seis cordas
+NOVELA; Programa de TV com capítulos diários
+VIAGEM; Ato de se deslocar para outro lugar por prazer
+DESENHO; Representação gráfica em uma superfície
+CORRIDA; Competição de velocidade a pé
+PROGRAMADOR; Profissional que escreve códigos de sistemas
+PROFESSOR; Pessoa que ensina e transmite conhecimento
+MEDICO; Profissional que cuida da saúde das pessoas
+BOMBEIRO; Profissional que apaga incêndios
+POLICIAL; Profissional que mantém a segurança pública
+DENTISTA; Profissional que cuida da saúde bucal
+ENGENHEIRO; Profissional que projeta construções ou sistemas
+ADVOGADO; Profissional que trabalha com leis e justiça
+COZINHEIRO; Profissional que prepara alimentos
+MOTORISTA; Pessoa que conduz veículos
+AMIZADE; Sentimento de afeto entre amigos
+CORAGEM; Firmeza de espírito diante do perigo
+SUCESSO; Alcançar um objetivo desejado
+ESPERANCA; Sentimento de quem acredita que algo vai melhorar
+LIBERDADE; Direito de agir segundo a própria vontade
+SABEDORIA; Acúmulo de conhecimentos e experiências
+NATUREZA; Conjunto de elementos do mundo natural
+SILENCIO; Ausência total de sons ou ruídos
+UNIVERSO; Tudo o que existe no espaço e no tempo
+FELICIDADE; Estado de quem está plenamente satisfeito
