@@ -101,3 +101,7 @@ while True:
 tempo_final = time.time()
 duracao = tempo_final - tempo_inicial
 print(Fore. YELLOW + f"Jogo durou: {duracao:.2f} segundos")
+
+# def salva_dados():
+#   with open("ranking.txt", "a") as arq:
+#     for 
