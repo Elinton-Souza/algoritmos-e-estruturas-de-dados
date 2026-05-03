@@ -38,7 +38,7 @@ def mover_peca(tabuleiro, linha, coluna):
 
 def embaralhar(tabuleiro):
     direcoes = [(-1, 0), (1, 0), (0, -1), (0, 1)]
-    for _ in range(300):
+    for _ in range(30):
         li, lj = encontrar_vazio(tabuleiro)
         random.shuffle(direcoes)
         for dl, dc in direcoes:
@@ -124,7 +124,7 @@ def jogar(nome):
             salvar_pontuacao(nome, pontuacao)
             break
  
-        entrada_linha = input("\nQual LINHA da peça que quer mover? (1-4): ").strip()
+        entrada_linha = input("\nQual linha (LIN) da peça que quer mover? (1-4): ").strip()
  
         if entrada_linha.upper() == "RANKING":
             exibir_ranking()
@@ -133,7 +133,7 @@ def jogar(nome):
             print("Partida encerrada. Até a próxima!")
             break
  
-        entrada_coluna = input("Qual COLUNA da peça que quer mover? (1-4): ").strip()
+        entrada_coluna = input("Qual coluna (COL) da peça que quer mover? (1-4): ").strip()
  
         if entrada_coluna.upper() == "RANKING":
             exibir_ranking()
