@@ -1,1 +1,4 @@
 Elinton;0
+Mateus;650
+Alessandro;900
+Reny;150
